@@ -1,0 +1,20 @@
+## resolution
+screen_width 800
+screen_height 600
+fullscreen false
+
+## framerate settings
+is_fps_capped true
+fps_cap 60
+
+## game world settings
+game_width 4000
+game_height 4000
+
+## grid settings
+grid_section_size_x 25
+grid_section_size_y 25
+
+## spark settings
+sparks_per_bullet 50
+sparks_per_enemy 250
