@@ -3,4 +3,19 @@ GeometryWarsClone
 
 A [Geometry Wars](http://en.wikipedia.org/wiki/Geometry_Wars) clone made in Java and [LWJGL](http://www.lwjgl.org/), and uses [BMFont](http://www.angelcode.com/products/bmfont/) for fonts.
 
-This hasn't been worked on in two years, I'm just uploading it so it's easier to access.
+This is just an upload of the project found [here](http://tniechciol.ca/Projects/GeoWarsClone/) so that it is easier to browse.
+
+You can download a compiled version on the [project page](http://tniechciol.ca/Projects/GeoWarsClone/), or directly [here](http://tniechciol.ca/files/Geometry_Wars_Clone.zip).
+
+Controls
+--------
+
+WASD -> Move
+
+Left Click -> Shoot
+
+Escape -> Menu
+
+Building the game
+-----------------
+This was made using eclipse, and I am not very familiar with java's command line tools, so there is no automated build process provided.
